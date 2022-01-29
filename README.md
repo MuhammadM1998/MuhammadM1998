@@ -22,10 +22,10 @@
 ### 🛠 Skills
 
 #### Industry Knowledge:
-![Front-End Development](https://img.shields.io/static/v1?label=&message=Front-End-Development&color=white&style=for-the-badge) 
-![Responsive Web Design](https://img.shields.io/static/v1?label=&message=Responsive-Web-Design&color=gray&style=for-the-badge) 
-![Object Oriented Programming](https://img.shields.io/static/v1?label=&message=Object-Oriented-Programming&color=F7DF1E&style=for-the-badge) 
-![Functional Programming](https://img.shields.io/static/v1?label=&message=Functional-Programming&color=690597&style=for-the-badge)
+![Front-End Development](https://img.shields.io/static/v1?label=&message=Front-End-Development&color=white&style=flat-square) 
+![Responsive Web Design](https://img.shields.io/static/v1?label=&message=Responsive-Web-Design&color=gray&style=flat-square) 
+![Object Oriented Programming](https://img.shields.io/static/v1?label=&message=Object-Oriented-Programming&color=F7DF1E&style=flat-square) 
+![Functional Programming](https://img.shields.io/static/v1?label=&message=Functional-Programming&color=690597&style=flat-square)
 
 #### Technologies:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
