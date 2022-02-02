@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/muhammadm1998/" title="LinkedIn Account"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /></a>
 <a href="https://dev.to/muhammadm1998" title="Dev.to Account"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" /></a>
 <a href="https://hashnode.com/@MuhammadM1998" title="Hashnode Account"><img height="32" width="32" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png"/></a>
-<a href="https://stackoverflow.com/users/17700794/muhammad-mahmoud" title="Stack Overflow Account"><img height="32" width="32" src="https://cdn-icons.flaticon.com/png/512/2626/premium/2626299.png?token=exp=1643469718~hmac=fe5725b1a36194934862ffc55f160d65"/></a>
+<a href="https://stackoverflow.com/users/17700794/muhammad-mahmoud" title="Stack Overflow Account"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/></a>
 
 ### 🛠 Skills
 
