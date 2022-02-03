@@ -12,18 +12,34 @@
 -   After a bad realtionship with mobile development that lasted about 3 and a half days 📱. I discoverd that I really like the field of front-end devolpment 💻. I liked the idea of being able to build websites that work perfectly on mobiles, desktops, laptops or any other thing with a screen and a cpu. Cool part is if you get good enough you get to get a mobile app of your website. Anyone who have access to the Play Store or IOS Store can download it and use it.
 -   I'm a Madridista <img height="16" width="16" src="https://cdn-icons-png.flaticon.com/512/738/738671.png" />. Love games 🎮, and I like music 🎧, especially rap (Eminem = 🐐).
 
-### 👀 Check me out on other social platforms
+### 👀 Check me out on various platforms
 
-<a href="https://www.linkedin.com/in/muhammadm1998/" title="LinkedIn Account"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" /></a>
-<a href="https://dev.to/muhammadm1998" title="Dev.to Account"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" /></a>
-<a href="https://hashnode.com/@MuhammadM1998" title="Hashnode Account"><img height="32" width="32" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png"/></a>
-<a href="https://stackoverflow.com/users/17700794/muhammad-mahmoud" title="Stack Overflow Account"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/></a>
+<a href="https://www.linkedin.com/in/muhammadm1998/" title="LinkedIn Account">
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
+</a>
+
+<a href="https://github.com/MuhammadM1998" title="GitHub Account">
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+</a>
+
+<a href="https://dev.to/muhammadm1998" title="Dev.to Account">
+  <img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5969/5969113.png" />
+</a>
+
+<a href="https://hashnode.com/@MuhammadM1998" title="Hashnode Account">
+  <img height="32" width="32" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png"/>
+</a>
+
+<a href="https://stackoverflow.com/users/17700794/muhammad-mahmoud" title="Stack Overflow Account">
+  <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png"/>
+</a>
 
 ### 🛠 Skills
 
 #### Industry Knowledge:
 ![Front-End Development](https://img.shields.io/static/v1?label=&message=Front-End-Development&color=white&style=flat-square) 
 ![Responsive Web Design](https://img.shields.io/static/v1?label=&message=Responsive-Web-Design&color=gray&style=flat-square) 
+![Mobile-First Design](https://img.shields.io/static/v1?label=&message=Mobile-First-Design&color=gray&style=flat-square) 
 ![Object Oriented Programming](https://img.shields.io/static/v1?label=&message=Object-Oriented-Programming&color=F7DF1E&style=flat-square) 
 ![Functional Programming](https://img.shields.io/static/v1?label=&message=Functional-Programming&color=690597&style=flat-square)
 
