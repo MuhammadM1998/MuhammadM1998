@@ -1,15 +1,15 @@
 <div>
   <h3 align="center"><b> Hello world!, I'm Muhammad</b></h3> 
-  <p align="center">Some guy with a thing for front-end developing 👨‍💻.</p>
+  <p align="center">Junior Frontend Web Developer (Vue.js)</p>
 </div>
 
 <hr>
 
 ### 👨‍🚀 A little bit about me [Perfectly Safe to Skip]
 
--   My name is Muhammad Mahmoud. I'm from Egypt 🇪🇬, specificly from Luxor (We'll love to have you there, we have like 2/3 of the world's monuments and much more cool stuff.)
--   I have a BSc in Electrical Engineering from Aswan University 🎓. My graduation project was in digital design field. Our team designed & implemented a RISC-V ISA on FPGA boards.
--   After a bad realtionship with mobile development that lasted about 3 and a half days 📱. I discoverd that I really like the field of front-end devolpment 💻. I liked the idea of being able to build websites that work perfectly on mobiles, desktops, laptops or any other thing with a screen and a cpu. Cool part is if you get good enough you get to get a mobile app of your website. Anyone who have access to the Play Store or IOS Store can download it and use it.
+-   My name is Muhammad Mahmoud. I'm from Luxor, Egypt 🇪🇬 (We'll love to have you there, we have like 2/3 of the world's monuments and much more cool stuff.)
+-   I have a BSc in Electrical Engineering from Aswan University 🎓. My graduation project was in digital design field. We designed & implemented a RISC-V ISA on FPGA boards.
+-   I discoverd that I really like the field of front-end devolpment 💻. I liked the idea of being able to build websites that work perfectly on mobiles, desktops, laptops or any other thing with a screen and a cpu.
 -   I'm a Madridista <img height="16" width="16" src="https://cdn-icons-png.flaticon.com/512/738/738671.png" />. Love games 🎮, and I like music 🎧, especially rap (Eminem = 🐐).
 
 ### 👀 Check me out on various platforms
