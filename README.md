@@ -66,4 +66,4 @@
 #### My GitHub Repos Stats:
 ![MuhammadM1998's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadM1998&theme=vue-dark&layout=compact)
 
-#### ✨ At the meantime, I'm trying to get better at what I do, but it would be lovely to hear from you! Get in touch at any time.
+#### ✨ It would be lovely to hear from you! Get in touch at any time.
