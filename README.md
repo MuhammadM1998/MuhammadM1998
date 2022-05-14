@@ -44,15 +44,17 @@
 ![Functional Programming](https://img.shields.io/static/v1?label=&message=Functional-Programming&color=690597&style=flat-square)
 
 #### Technologies:
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### Tools:
+![Vite](https://img.shields.io/static/v1?label=&message=Vite&color=646CFF&style=flat-square&logo=vite&logoColor=ffcb23)
 ![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=039be5&style=flat-square&logo=firebase) 
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=fflat-square&logo=webpack)
+![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Parcel](https://img.shields.io/static/v1?label=&message=Parcel&color=1f3447&style=flat-square&logo=jetpackcompose) 
 ![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=000000&style=flat-square&logo=figma) 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) 
@@ -61,6 +63,7 @@
 ![npm](https://img.shields.io/static/v1?label=&message=npm&color=CB3837&style=flat-square&logo=npm) 
 ![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=000000&style=flat-square&logo=json)
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
+![Prettier](https://img.shields.io/static/v1?label=&message=Prettier&color=F7B93E&style=flat-square&logo=prettier&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 #### My GitHub Repos Stats:
