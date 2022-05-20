@@ -1,9 +1,12 @@
 <div>
   <h3 align="center"><b> Hello world!, I'm Muhammad</b></h3> 
-  <p align="center">Junior Frontend Web Developer (Vue.js)</p>
+  <p align="center">Junior Frontend Web Developer (Nuxt.js / Vue.js)</p>
 </div>
 
 <hr>
+
+### 📑 My CV
+- [GitHub Pages](https://muhammadm1998.github.io/MuhammadM1998/) (online in the browser, no downloads)
 
 ### 👨‍🚀 A little bit about me [Perfectly Safe to Skip]
 
@@ -11,6 +14,7 @@
 -   I have a BSc in Electrical Engineering from Aswan University 🎓. My graduation project was in digital design field. We designed & implemented a RISC-V ISA on FPGA boards.
 -   I discoverd that I really like the field of front-end devolpment 💻. I liked the idea of being able to build websites that work perfectly on mobiles, desktops, laptops or any other thing with a screen and a cpu.
 -   I'm a Madridista, a gamer and I like music (especially rap, Eminem = 🐐).
+
 
 ### 👀 Check me out on various platforms
 
@@ -37,34 +41,35 @@
 ### 🛠 Skills
 
 #### Industry Knowledge:
-![Front-End Development](https://img.shields.io/static/v1?label=&message=Front-End-Development&color=white&style=flat-square) 
-![Responsive Web Design](https://img.shields.io/static/v1?label=&message=Responsive-Web-Design&color=gray&style=flat-square) 
-![Mobile-First Design](https://img.shields.io/static/v1?label=&message=Mobile-First-Design&color=gray&style=flat-square) 
-![Object Oriented Programming](https://img.shields.io/static/v1?label=&message=Object-Oriented-Programming&color=F7DF1E&style=flat-square) 
-![Functional Programming](https://img.shields.io/static/v1?label=&message=Functional-Programming&color=690597&style=flat-square)
+![Front-End Development](https://img.shields.io/static/v1?label=&message=Frontend%20Web%20Development&color=white&style=flat-square) 
+![Responsive Web Design](https://img.shields.io/static/v1?label=&message=Responsive%20Web%20Design&color=gray&style=flat-square) 
+![Mobile-First Design](https://img.shields.io/static/v1?label=&message=Mobile-First%20Design&color=gray&style=flat-square) 
+![Object Oriented Programming](https://img.shields.io/static/v1?label=&message=Object%20Oriented%20Programming&color=F7DF1E&style=flat-square) 
+![Functional Programming](https://img.shields.io/static/v1?label=&message=Functional%20Programming&color=690597&style=flat-square)
+![CI/CD](https://img.shields.io/static/v1?label=&message=CI/CD&color=gray&style=flat-square)
+![Problem Solving](https://img.shields.io/static/v1?label=&message=Problem%20Solving&color=F7DF1E&style=flat-square)
 
 #### Technologies:
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 #### Tools:
-![Vite](https://img.shields.io/static/v1?label=&message=Vite&color=646CFF&style=flat-square&logo=vite&logoColor=ffcb23)
-![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=039be5&style=flat-square&logo=firebase) 
-![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
-![Parcel](https://img.shields.io/static/v1?label=&message=Parcel&color=1f3447&style=flat-square&logo=jetpackcompose) 
-![Figma](https://img.shields.io/static/v1?label=&message=Figma&color=000000&style=flat-square&logo=figma) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white) 
-![npm](https://img.shields.io/static/v1?label=&message=npm&color=CB3837&style=flat-square&logo=npm) 
-![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=000000&style=flat-square&logo=json)
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
-![Prettier](https://img.shields.io/static/v1?label=&message=Prettier&color=F7B93E&style=flat-square&logo=prettier&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Vite](https://img.shields.io/static/v1?label=&message=Vite&color=646CFF&style=for-the-badge&logo=vite&logoColor=ffcb23)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Parcel](https://img.shields.io/static/v1?label=&message=Parcel&color=1f3447&style=for-the-badge&logo=jetpackcompose) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![JSON](https://img.shields.io/static/v1?label=&message=JSON&color=000000&style=for-the-badge&logo=json)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/static/v1?label=&message=Prettier&color=F7B93E&style=for-the-badge&logo=prettier&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=visual-studio-code)
 
 #### My GitHub Repos Stats:
 ![MuhammadM1998's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadM1998&theme=vue-dark&layout=compact)
