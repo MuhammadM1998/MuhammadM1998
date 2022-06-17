@@ -1,6 +1,6 @@
 <div>
   <h3 align="center"><b> Hello world!, I'm Muhammad</b></h3> 
-  <p align="center">Junior Frontend Web Developer (Nuxt.js / Vue.js)</p>
+  <p align="center">Junior Frontend Web Developer (Nuxt.js)</p>
 </div>
 
 <hr>
