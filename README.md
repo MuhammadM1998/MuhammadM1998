@@ -1,13 +1,14 @@
 <div>
   <h1 align="center"><b> Hello world!, I'm Muhammad</b></h1> 
-  <p align="center">Junior Frontend Web Developer (Nuxt.js)</p>
+  <p align="center">Junior Nuxt.js Frontend Web Developer who likes building things that live on the web</p>
 </div>
 
 <hr>
 
-## 📑 My CV
+## ⚡ Important Links
 
-- [GitHub Pages](https://muhammadm1998.github.io/MuhammadM1998/) (online in the browser, no downloads)
+- #### [My Portfolio](https://muhammadm1998.vercel.app/)
+- #### [My Resume](https://drive.google.com/file/d/1o0lYks_cUtR2IKDuXYZDERRjTMvbZjIs/view) (online in the browser, no downloads)
 
 ## 👨‍🚀 A little bit about me [Perfectly Safe to Skip]
 

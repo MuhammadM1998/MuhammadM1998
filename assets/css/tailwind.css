@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-navy-400;
+  }
+}
+
+span.nuxt-icon svg {
+  @apply m-0;
+}
