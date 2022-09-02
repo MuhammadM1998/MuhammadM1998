@@ -16,11 +16,6 @@ export default defineNuxtConfig({
           type: 'image/svg+xml',
           href: '/favicon.svg',
         },
-        // Fonts
-        {
-          rel: 'stylesheet',
-          href: './assets/css/fonts.css',
-        },
       ],
 
       meta: [
