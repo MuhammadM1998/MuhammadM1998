@@ -1,5 +1,6 @@
 <template>
-  <main>
+  <div>
     <SectionIntro />
-  </main>
+    <SectionIntro />
+  </div>
 </template>
