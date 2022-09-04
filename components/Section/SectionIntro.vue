@@ -5,7 +5,7 @@
         <h1 class="caption mb-5">Hi there!, My name is</h1>
         <h2 class="heading heading--main">Muhammad Mahmoud.</h2>
         <h3 class="heading heading--sec">I build things for the web.</h3>
-        <p class="mt-5 max-w-[480px]">
+        <p class="mt-5">
           I'm a
           <span class="text-green-100">Nuxt.js Frontend Web Developer</span>
           based in Egypt who enjoys creating beautiful, functional and

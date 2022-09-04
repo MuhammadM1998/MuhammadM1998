@@ -62,7 +62,7 @@
 <style scoped lang="scss">
   aside {
     @apply fixed right-0 top-0  bg-navy-500 px-4 py-2;
-    @apply h-screen w-[min(75vw,_400px)] translate-x-full transition-all duration-300;
+    @apply h-screen w-[min(75vw,_400px)] translate-x-[100vw] transition-all duration-300;
     @apply flex flex-col items-center;
 
     &.aside--active {

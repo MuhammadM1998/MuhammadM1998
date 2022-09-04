@@ -1,22 +1,26 @@
 <script setup>
   const isScrollingDown = ref(false);
-  const isDoucmentTop = ref(true);
 
   // Hide Aside on scrolling down and show it on scrolling up
   const { y } = useWindowScroll();
+
+  onMounted(() => {
+    y.value ? (isScrollingDown.value = true) : (isScrollingDown.value = false);
+  });
+
   watch(y, (newValue, oldValue) => {
     newValue >= oldValue
       ? (isScrollingDown.value = true)
       : (isScrollingDown.value = false);
   });
 
-  const headerScrolled = computed(() =>
-    y.value === 0 ? 'py-4' : 'shadow-lg py-2'
-  );
+  const headerClasses = computed(() => {
+    return y.value === 0 ? 'py-4' : 'shadow-lg py-2';
+  });
 </script>
 
 <template>
-  <header :class="[headerScrolled, { 'header--scrolled': isScrollingDown }]">
+  <header :class="[headerClasses, { 'header--scrolled': isScrollingDown }]">
     <div
       class="container flex min-h-[48px] items-center justify-between transition-all"
     >

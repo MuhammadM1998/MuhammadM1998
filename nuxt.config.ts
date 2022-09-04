@@ -43,7 +43,7 @@ export default defineNuxtConfig({
         },
         {
           property: 'og:title',
-          content: 'OG TITLE',
+          content: 'Muhammad Mahmoud - Frontend Web Developer',
         },
         {
           property: 'og:site_name',

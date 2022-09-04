@@ -1,6 +1,6 @@
 <template>
   <div>
     <SectionIntro />
-    <SectionIntro />
+    <SectionAbout />
   </div>
 </template>

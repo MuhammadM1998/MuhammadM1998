@@ -1,5 +1,5 @@
 <template>
-  <a :href="`${$attrs.href}`" class="">
+  <a v-bind="$attrs">
     <slot />
   </a>
 </template>
