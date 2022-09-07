@@ -25,7 +25,7 @@
       class="container flex min-h-[48px] items-center justify-between transition-all"
     >
       <a href="/" aria-label="home">
-        <i-my-icons-logo class="text-2xl" />
+        <i-myicons-logo class="text-2xl" />
       </a>
 
       <Nav />

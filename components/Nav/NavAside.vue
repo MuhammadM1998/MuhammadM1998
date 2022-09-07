@@ -25,16 +25,19 @@
     isAsideVisible.value ? closeAside() : openAside();
   };
 
-  onClickOutside(aside, () => closeAside(), {
-    ignore: [hamburger],
-  });
-
-  // Close the menu on clicking the links
-  // P.S: the document object is available only on the client, not the server.
-  if (process.client) {
+  const closeAsideOnLinkClick = () => {
     const navLinks = document.querySelectorAll('aside li');
     navLinks.forEach((link) => useEventListener(link, 'click', closeAside));
-  }
+  };
+
+  watch(isAsideVisible, (value) => {
+    if (value) {
+      onClickOutside(aside, () => closeAside(), {
+        ignore: [hamburger],
+      });
+      closeAsideOnLinkClick();
+    }
+  });
 
   // Close the menu on small screens breakpoint
   const { sm } = useBreakpoints(breakpointsTailwind);

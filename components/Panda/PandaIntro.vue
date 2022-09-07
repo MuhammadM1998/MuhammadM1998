@@ -172,11 +172,15 @@
       }
 
       .panda__hand {
-        @apply animate-[hand-move_0.2s_ease-in-out_infinite];
+        animation-duration: 0.2s;
 
         &--right {
           animation-delay: -0.08s;
         }
+      }
+
+      & + .laptop {
+        animation-duration: 2s;
       }
     }
   }

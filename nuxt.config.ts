@@ -95,13 +95,13 @@ export default defineNuxtConfig({
       Components({
         resolvers: [
           IconsResolver({
-            customCollections: ['my-icons'],
+            customCollections: ['myicons'],
           }),
         ],
       }),
       Icons({
         customCollections: {
-          'my-icons': FileSystemIconLoader('./assets/icons', (svg) =>
+          myicons: FileSystemIconLoader('./assets/icons', (svg) =>
             svg.replace(/^<svg /, '<svg fill="currentColor" ')
           ),
         },

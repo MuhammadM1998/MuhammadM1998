@@ -1,7 +1,8 @@
 <template>
-  <section id="about" class="py-16">
+  <section id="about" class="py-24">
     <div class="container">
-      <h4 class="section-heading">About Me</h4>
+      <h2 class="section-heading section-heading--decorated">About Me</h2>
+
       <div class="flex flex-col gap-20 md:flex-row">
         <div class="md:basis-full">
           <p class="mb-4">
@@ -25,8 +26,9 @@
           <p class="mb-4">
             After graduation, I decided to learn how to build Android apps but
             it just didn't click. I developed my first web app a month later
-            which I found very intersting. Fast forward to today, I'm freelance
-            as a
+            which I found very intersting. I started self-studying frontend web
+            development technologies after graduation. Fast forward to today, I
+            freelance as a
             <span class="text--highlighted">
               Nuxt.js Frontend Web Developer
             </span>
@@ -34,16 +36,25 @@
           </p>
 
           <p class="mb-4">
-            If you want more detailed info, check out my linkedin account.
+            If you want more detailed info, check out my linkedin account or the
+            resume for a more organized version.
           </p>
 
-          <BaseLink
-            href="https://www.linkedin.com/in/muhammadm1998/"
-            class="mt-8"
-            target="blank"
-          >
-            <i-ant-design-linkedin-filled /> Linkedin
-          </BaseLink>
+          <div class="mt-8 flex flex-wrap items-center gap-6 2xs:flex-nowrap">
+            <BaseLink
+              href="https://www.linkedin.com/in/muhammadm1998/"
+              target="blank"
+            >
+              <i-ant-design-linkedin-filled /> Linkedin
+            </BaseLink>
+
+            <BaseLink
+              href="https://drive.google.com/file/d/1o0lYks_cUtR2IKDuXYZDERRjTMvbZjIs/view"
+              target="blank"
+            >
+              <i-pepicons-cv /> Resume
+            </BaseLink>
+          </div>
         </div>
 
         <div class="md:basis-full">
@@ -69,9 +80,7 @@
 
                 <p class="position">Frontend Web Developer</p>
 
-                <p class="experience__location">
-                  <i-carbon-location-current class="inline-block" /> Anywhere
-                </p>
+                <p class="location"><i-carbon-location-current /> Anywhere</p>
               </div>
             </li>
 
@@ -144,12 +153,6 @@
     @apply transition-all duration-300;
   }
 
-  .experience-item:first-of-type {
-    .experience__type::before {
-      @apply bg-red-400;
-    }
-  }
-
   .experience-item {
     @apply relative px-8 py-3;
     @apply before:absolute before:left-0 before:top-0 before:h-full before:w-1;
@@ -177,10 +180,7 @@
     }
 
     .location {
-      @apply mb-1 text-xs text-navy-300;
-      svg {
-        @apply inline-block;
-      }
+      @apply mb-1 flex items-center gap-1 text-xs text-navy-300;
     }
   }
 </style>
