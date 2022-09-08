@@ -26,6 +26,10 @@
   .section-heading {
     @apply mb-8  whitespace-nowrap font-firacode text-[clamp(26px,_4vw,_32px)] font-semibold text-navy-100;
 
+    &--big {
+      @apply text-[clamp(26px,_4vw,_40px)];
+    }
+
     &--decorated {
       @apply flex  items-center;
       @apply before:mr-2 before:inline-block before:text-green-100 before:content-['/'];

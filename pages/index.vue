@@ -3,5 +3,6 @@
     <SectionIntro />
     <SectionAbout />
     <SectionFeatures />
+    <BaseSideLinks />
   </main>
 </template>
