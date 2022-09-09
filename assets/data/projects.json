@@ -6,7 +6,7 @@
     "description": "E-Commerce website for selling groceries online. Made with Nuxt & Strapi. ",
     "links": {
       "live": "https://groceyish.vercel.app/",
-      "github": "https://github.com/MuhammadM1998"
+      "github": "https://github.com/MuhammadM1998/Groceyish"
     },
     "stack": [
       { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
@@ -24,7 +24,7 @@
       },
       {
         "width": "1024",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/Groceyish/320.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747199/Portfolio/Projects%20Shots/Groceyish/1024.webp"
       },
       {
         "width": "768",
@@ -62,32 +62,32 @@
       { "name": "Swiper", "icon": "Swiper" }
     ],
     "isFeatured": true,
-    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp",
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735402/Portfolio/Projects%20Shots/EGSA/1280.webp",
     "dynamicImages": [
       {
         "width": "1280",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735402/Portfolio/Projects%20Shots/EGSA/1280.webp"
       },
       {
         "width": "1024",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735397/Portfolio/Projects%20Shots/EGSA/1024.webp"
       },
       {
         "width": "768",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735451/Portfolio/Projects%20Shots/EGSA/768.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735406/Portfolio/Projects%20Shots/EGSA/768.webp"
       },
 
       {
         "width": "640",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735468/Portfolio/Projects%20Shots/EGSA/640.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735420/Portfolio/Projects%20Shots/EGSA/640.webp"
       },
       {
         "width": "480",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735436/Portfolio/Projects%20Shots/EGSA/480.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735401/Portfolio/Projects%20Shots/EGSA/480.webp"
       },
       {
         "width": "320",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735410/Portfolio/Projects%20Shots/EGSA/320.webp"
       }
     ]
   },
@@ -108,32 +108,32 @@
       { "name": "Axios", "icon": "simple-icons:axios" }
     ],
     "isFeatured": true,
-    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp",
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735381/Portfolio/Projects%20Shots/Food-Hut/1280.webp",
     "dynamicImages": [
       {
         "width": "1280",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735381/Portfolio/Projects%20Shots/Food-Hut/1280.webp"
       },
       {
         "width": "1024",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735374/Portfolio/Projects%20Shots/Food-Hut/1024.webp"
       },
       {
         "width": "768",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735451/Portfolio/Projects%20Shots/EGSA/768.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735380/Portfolio/Projects%20Shots/Food-Hut/768.webp"
       },
 
       {
         "width": "640",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735468/Portfolio/Projects%20Shots/EGSA/640.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735408/Portfolio/Projects%20Shots/Food-Hut/640.webp"
       },
       {
         "width": "480",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735436/Portfolio/Projects%20Shots/EGSA/480.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735394/Portfolio/Projects%20Shots/Food-Hut/480.webp"
       },
       {
         "width": "320",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735368/Portfolio/Projects%20Shots/Food-Hut/320.webp"
       }
     ]
   },
@@ -156,32 +156,176 @@
       { "name": "Stripe", "icon": "simple-icons:stripe" }
     ],
     "isFeatured": true,
-    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp",
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp",
     "dynamicImages": [
       {
         "width": "1280",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp"
       },
       {
         "width": "1024",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747464/Portfolio/Projects%20Shots/NuxtBnB/1024.webp"
       },
       {
         "width": "768",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735451/Portfolio/Projects%20Shots/EGSA/768.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747454/Portfolio/Projects%20Shots/NuxtBnB/768.webp"
       },
 
       {
         "width": "640",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735468/Portfolio/Projects%20Shots/EGSA/640.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747456/Portfolio/Projects%20Shots/NuxtBnB/640.webp"
       },
       {
         "width": "480",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735436/Portfolio/Projects%20Shots/EGSA/480.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747434/Portfolio/Projects%20Shots/NuxtBnB/480.webp"
       },
       {
         "width": "320",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747428/Portfolio/Projects%20Shots/NuxtBnB/320.webp"
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "Shortly",
+    "genre": "URL Shortening",
+    "description": "Airbnb-like website for renting homes all over the world.",
+    "links": {
+      "live": "https://shortly-alpha.vercel.app/ ",
+      "github": "https://github.com/MuhammadM1998/Shortly"
+    },
+    "stack": [
+      { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
+      { "name": "Tailwind CSS", "icon": "bxl:tailwind-css" },
+      { "name": "Firebase", "icon": "simple-icons:firebase" },
+      { "name": "Algolia", "icon": "simple-icons:algolia" },
+      { "name": "Mapbox", "icon": "simple-icons:mapbox" },
+      { "name": "Stripe", "icon": "simple-icons:stripe" }
+    ],
+    "isFeatured": false,
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp",
+    "dynamicImages": [
+      {
+        "width": "1280",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp"
+      },
+      {
+        "width": "1024",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747464/Portfolio/Projects%20Shots/NuxtBnB/1024.webp"
+      },
+      {
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747454/Portfolio/Projects%20Shots/NuxtBnB/768.webp"
+      },
+
+      {
+        "width": "640",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747456/Portfolio/Projects%20Shots/NuxtBnB/640.webp"
+      },
+      {
+        "width": "480",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747434/Portfolio/Projects%20Shots/NuxtBnB/480.webp"
+      },
+      {
+        "width": "320",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747428/Portfolio/Projects%20Shots/NuxtBnB/320.webp"
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "Paywise",
+    "genre": "Banking",
+    "description": "Airbnb-like website for renting homes all over the world.",
+    "links": {
+      "live": "https://paywise-55367.web.app/ ",
+      "github": "https://github.com/MuhammadM1998/Paywise"
+    },
+    "stack": [
+      { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
+      { "name": "Tailwind CSS", "icon": "bxl:tailwind-css" },
+      { "name": "Firebase", "icon": "simple-icons:firebase" },
+      { "name": "Algolia", "icon": "simple-icons:algolia" },
+      { "name": "Mapbox", "icon": "simple-icons:mapbox" },
+      { "name": "Stripe", "icon": "simple-icons:stripe" }
+    ],
+    "isFeatured": false,
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp",
+    "dynamicImages": [
+      {
+        "width": "1280",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp"
+      },
+      {
+        "width": "1024",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747464/Portfolio/Projects%20Shots/NuxtBnB/1024.webp"
+      },
+      {
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747454/Portfolio/Projects%20Shots/NuxtBnB/768.webp"
+      },
+
+      {
+        "width": "640",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747456/Portfolio/Projects%20Shots/NuxtBnB/640.webp"
+      },
+      {
+        "width": "480",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747434/Portfolio/Projects%20Shots/NuxtBnB/480.webp"
+      },
+      {
+        "width": "320",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747428/Portfolio/Projects%20Shots/NuxtBnB/320.webp"
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "RISC-Aswan",
+    "genre": "Electronics",
+    "description": "Airbnb-like website for renting homes all over the world.",
+    "links": {
+      "live": "https://risc-aswan-2022.web.app/ ",
+      "github": "https://github.com/MuhammadM1998/RISC-Aswan"
+    },
+    "stack": [
+      { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
+      { "name": "Tailwind CSS", "icon": "bxl:tailwind-css" },
+      { "name": "Firebase", "icon": "simple-icons:firebase" },
+      { "name": "Algolia", "icon": "simple-icons:algolia" },
+      { "name": "Mapbox", "icon": "simple-icons:mapbox" },
+      { "name": "Stripe", "icon": "simple-icons:stripe" }
+    ],
+    "isFeatured": false,
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp",
+    "dynamicImages": [
+      {
+        "width": "1280",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp"
+      },
+      {
+        "width": "1024",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747464/Portfolio/Projects%20Shots/NuxtBnB/1024.webp"
+      },
+      {
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747454/Portfolio/Projects%20Shots/NuxtBnB/768.webp"
+      },
+
+      {
+        "width": "640",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747456/Portfolio/Projects%20Shots/NuxtBnB/640.webp"
+      },
+      {
+        "width": "480",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747434/Portfolio/Projects%20Shots/NuxtBnB/480.webp"
+      },
+      {
+        "width": "320",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747428/Portfolio/Projects%20Shots/NuxtBnB/320.webp"
       }
     ]
   }

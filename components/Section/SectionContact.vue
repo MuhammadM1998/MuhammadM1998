@@ -8,12 +8,15 @@
       </p>
 
       <div class="flex flex-wrap items-center justify-center gap-2 2xs:gap-6">
-        <BaseLink to="/projects" target="_blank">
-          <i-bxl:gmail /> Gmail
+        <BaseLink
+          href="https://www.upwork.com/freelancers/~01068ce0a86e755e27"
+          target="_blank"
+        >
+          <i-bxl:upwork /> Upwork
         </BaseLink>
 
-        <BaseLink href="https://github.com/MuhammadM1998" target="blank">
-          <i-bxl:upwork /> Upwork
+        <BaseLink to="mailto:MuhammadM.1097@gmail.com" target="_blank">
+          <i-bxl:gmail /> Gmail
         </BaseLink>
       </div>
     </div>
