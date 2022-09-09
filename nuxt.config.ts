@@ -88,7 +88,12 @@ export default defineNuxtConfig({
     },
   },
 
-  modules: ['@nuxtjs/tailwindcss', 'unplugin-icons/nuxt', '@vueuse/nuxt'],
+  modules: [
+    '@nuxtjs/tailwindcss',
+    'unplugin-icons/nuxt',
+    'nuxt-icon',
+    '@vueuse/nuxt',
+  ],
 
   vite: {
     plugins: [

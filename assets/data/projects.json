@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "name": "Groceyish",
+    "genre": "E-Commerce",
+    "description": "E-Commerce website for selling groceries online. Made with Nuxt & Strapi. ",
+    "links": {
+      "live": "https://groceyish.vercel.app/",
+      "github": "https://github.com/MuhammadM1998"
+    },
+    "stack": [
+      { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
+      { "name": "Tailwind CSS", "icon": "bxl:tailwind-css" },
+      { "name": "Strapi", "icon": "Strapi" },
+      { "name": "Vitest", "icon": "Vitest" },
+      { "name": "Cypress", "icon": "simple-icons:cypress" }
+    ],
+    "isFeatured": true,
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/Groceyish/1280.webp",
+    "dynamicImages": [
+      {
+        "width": "1280",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/Groceyish/1280.webp"
+      },
+      {
+        "width": "1024",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/Groceyish/320.webp"
+      },
+      {
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735451/Portfolio/Projects%20Shots/Groceyish/768.webp"
+      },
+
+      {
+        "width": "640",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735468/Portfolio/Projects%20Shots/Groceyish/640.webp"
+      },
+      {
+        "width": "480",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735436/Portfolio/Projects%20Shots/Groceyish/480.webp"
+      },
+      {
+        "width": "320",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/Groceyish/320.webp"
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "EGSA",
+    "genre": "Multilingual",
+    "description": "Multilingual (EN & AR) landing page for a moon flights agency ",
+    "links": {
+      "live": "https://egsa.vercel.app/",
+      "github": "https://github.com/MuhammadM1998/EGSA"
+    },
+    "stack": [
+      { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
+      { "name": "Tailwind CSS", "icon": "bxl:tailwind-css" },
+      { "name": "I18n", "icon": "I18n" },
+      { "name": "Swiper", "icon": "Swiper" }
+    ],
+    "isFeatured": true,
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp",
+    "dynamicImages": [
+      {
+        "width": "1280",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp"
+      },
+      {
+        "width": "1024",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+      },
+      {
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735451/Portfolio/Projects%20Shots/EGSA/768.webp"
+      },
+
+      {
+        "width": "640",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735468/Portfolio/Projects%20Shots/EGSA/640.webp"
+      },
+      {
+        "width": "480",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735436/Portfolio/Projects%20Shots/EGSA/480.webp"
+      },
+      {
+        "width": "320",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Food Hut",
+    "genre": "Recipes",
+    "description": "An app for finding recipes, modifying for the suitable amounts, bookmarking for future use and more",
+    "links": {
+      "live": "https://foodhut.vercel.app/",
+      "github": "https://github.com/MuhammadM1998/Food-Hut"
+    },
+    "stack": [
+      { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
+      { "name": "Tailwind CSS", "icon": "bxl:tailwind-css" },
+      { "name": "Pinia", "icon": "Pinia" },
+      { "name": "Axios", "icon": "simple-icons:axios" }
+    ],
+    "isFeatured": true,
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp",
+    "dynamicImages": [
+      {
+        "width": "1280",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp"
+      },
+      {
+        "width": "1024",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+      },
+      {
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735451/Portfolio/Projects%20Shots/EGSA/768.webp"
+      },
+
+      {
+        "width": "640",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735468/Portfolio/Projects%20Shots/EGSA/640.webp"
+      },
+      {
+        "width": "480",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735436/Portfolio/Projects%20Shots/EGSA/480.webp"
+      },
+      {
+        "width": "320",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "NuxtBnB",
+    "genre": "Homes Renting",
+    "description": "Airbnb-like website for renting homes all over the world.",
+    "links": {
+      "live": "https://nuxtbnb-m98.herokuapp.com/ ",
+      "github": "https://github.com/MuhammadM1998/NuxtBnB"
+    },
+    "stack": [
+      { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
+      { "name": "Tailwind CSS", "icon": "bxl:tailwind-css" },
+      { "name": "Firebase", "icon": "simple-icons:firebase" },
+      { "name": "Algolia", "icon": "simple-icons:algolia" },
+      { "name": "Mapbox", "icon": "simple-icons:mapbox" },
+      { "name": "Stripe", "icon": "simple-icons:stripe" }
+    ],
+    "isFeatured": true,
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp",
+    "dynamicImages": [
+      {
+        "width": "1280",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662736336/Portfolio/Projects%20Shots/EGSA/1280.webp"
+      },
+      {
+        "width": "1024",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+      },
+      {
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735451/Portfolio/Projects%20Shots/EGSA/768.webp"
+      },
+
+      {
+        "width": "640",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735468/Portfolio/Projects%20Shots/EGSA/640.webp"
+      },
+      {
+        "width": "480",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735436/Portfolio/Projects%20Shots/EGSA/480.webp"
+      },
+      {
+        "width": "320",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662735424/Portfolio/Projects%20Shots/EGSA/320.webp"
+      }
+    ]
+  }
+]

@@ -31,19 +31,26 @@
         </a>
       </li>
     </ul>
+
+    <p>Muhammad Mahmoud</p>
   </div>
 </template>
 
 <style scoped lang="scss">
   .side-links {
-    @apply fixed bottom-0 right-10 hidden text-navy-200 md:block;
+    @apply fixed bottom-0 right-10 z-50 hidden text-navy-200 md:block;
     @apply after:mx-auto after:block  after:h-28 after:w-px after:bg-navy-200;
     ul {
       @apply flex flex-col gap-4;
 
       li {
-        @apply transition duration-200 last-of-type:mb-8 hover:-translate-y-0.5 hover:text-green-100;
+        @apply transition duration-200  hover:-translate-y-0.5 hover:text-green-100;
       }
+    }
+
+    p {
+      @apply my-6 font-firacode text-sm;
+      writing-mode: sideways-lr;
     }
   }
 </style>
