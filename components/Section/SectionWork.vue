@@ -33,7 +33,9 @@
         project on my GitHub account.
       </p>
 
-      <div class="flex items-center gap-6 lg:basis-full lg:justify-end">
+      <div
+        class="flex flex-wrap items-center gap-6 lg:basis-full lg:justify-end"
+      >
         <BaseLink to="/projects">
           <i-healthicons:ui-menu-grid-outline /> Projects Page
         </BaseLink>

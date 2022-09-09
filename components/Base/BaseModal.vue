@@ -43,7 +43,7 @@
       <div
         v-if="isModalVisible"
         ref="modal"
-        class="modal bg-navy-600"
+        class="modal bg-navy-500"
         role="dialog"
       >
         {{ $attrs.class }}

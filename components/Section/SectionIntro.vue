@@ -12,7 +12,7 @@
           accessible websites for individuals and small-businesses.
         </p>
 
-        <BaseLink href="#contact" class="mt-8">Get in touch</BaseLink>
+        <BaseLink href="#contact" class="mt-8 w-fit">Get in touch</BaseLink>
       </div>
 
       <PandaIntro class="hidden lg:block" />

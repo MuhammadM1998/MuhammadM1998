@@ -1,9 +1,9 @@
 <template>
-  <main>
+  <div>
     <SectionIntro />
     <SectionAbout />
     <SectionFeatures />
     <SectionWork />
-    <BaseSideLinks />
-  </main>
+    <SectionContact />
+  </div>
 </template>

@@ -3,6 +3,7 @@
     <TheHeader />
     <main>
       <slot />
+      <BaseSideLinks />
       <TheFooter />
     </main>
   </div>
