@@ -1,5 +1,5 @@
 <template>
-  <section id="features" class="py-24">
+  <section id="contact" class="py-24">
     <div class="container text-center">
       <span class="caption">Let's make something nice together</span>
       <h2 class="section-heading section-heading--big mb-4">Get In Touch</h2>

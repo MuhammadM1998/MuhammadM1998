@@ -1,3 +1,7 @@
 <template>
-  <div></div>
+  <div class="container">
+    <SectionProjectsIntro />
+    <SectionProjectsGallery />
+    <SectionContact />
+  </div>
 </template>

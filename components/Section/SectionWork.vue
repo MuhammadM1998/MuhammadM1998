@@ -1,5 +1,5 @@
 <template>
-  <section id="about" class="py-24">
+  <section id="work" class="py-24">
     <div class="container">
       <h2 class="section-heading section-heading--decorated">My Work</h2>
 

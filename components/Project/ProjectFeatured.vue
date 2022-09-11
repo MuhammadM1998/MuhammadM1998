@@ -3,13 +3,14 @@
   import projects from '~/assets/data/projects.json';
   // Swiper Config
   import { Swiper, SwiperSlide } from 'swiper/vue';
-  import { Navigation, EffectFade } from 'swiper';
+  import { Navigation, EffectFade, Lazy } from 'swiper';
   import 'swiper/css';
   import 'swiper/css/navigation';
   import 'swiper/css/effect-fade';
+  import 'swiper/css/lazy';
 
   const swiperConfig = {
-    modules: [Navigation, EffectFade],
+    modules: [Navigation, EffectFade, Lazy],
     navigation: {
       prevEl: '.navigation-btn--prev',
       nextEl: '.navigation-btn--next',
@@ -17,6 +18,10 @@
     effect: 'fade',
     fadeEffect: {
       crossFade: true,
+    },
+    lazy: {
+      checkInView: true,
+      enabled: true,
     },
     slidesPerView: 1,
     rewind: true,
@@ -104,11 +109,7 @@
               :srcset="image.url"
             />
 
-            <img
-              :src="project.defaultImage"
-              :alt="project.name"
-              loading="lazy"
-            />
+            <img :src="project.defaultImage" :alt="project.name" />
           </picture>
         </div>
       </SwiperSlide>

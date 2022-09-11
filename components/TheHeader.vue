@@ -24,9 +24,9 @@
     <div
       class="container flex min-h-[48px] items-center justify-between transition-all"
     >
-      <a href="/" aria-label="home">
+      <NuxtLink to="/" aria-label="home">
         <i-myicons-logo class="text-2xl" />
-      </a>
+      </NuxtLink>
 
       <Nav />
     </div>

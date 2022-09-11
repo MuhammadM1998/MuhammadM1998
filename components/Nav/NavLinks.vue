@@ -1,19 +1,19 @@
 <template>
   <ul>
     <li>
-      <a href="#about">About</a>
+      <a href="/#about">About</a>
     </li>
 
     <li>
-      <a href="#features">Features</a>
+      <a href="/#features">Features</a>
     </li>
 
     <li>
-      <a href="#work">My Work</a>
+      <a href="/#work">My Work</a>
     </li>
 
     <li>
-      <a href="#contact">Contact</a>
+      <a href="/#contact">Contact</a>
     </li>
   </ul>
 </template>
