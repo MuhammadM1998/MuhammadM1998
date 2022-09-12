@@ -66,17 +66,17 @@ export default defineNuxtConfig({
         {
           property: 'og:image',
           content:
-            'https://res.cloudinary.com/cloud-m98/image/upload/v1662030896/Portfolio/Website-Screenshot.png',
+            'https://res.cloudinary.com/cloud-m98/image/upload/v1663009658/Portfolio/Website-Screenshot.png',
         },
         {
           property: 'og:image:secure_url',
           content:
-            'https://res.cloudinary.com/cloud-m98/image/upload/v1662030896/Portfolio/Website-Screenshot.png',
+            'https://res.cloudinary.com/cloud-m98/image/upload/v1663009658/Portfolio/Website-Screenshot.png',
         },
         {
           property: 'twitter:image',
           content:
-            'https://res.cloudinary.com/cloud-m98/image/upload/v1662030896/Portfolio/Website-Screenshot.png',
+            'https://res.cloudinary.com/cloud-m98/image/upload/v1663009658/Portfolio/Website-Screenshot.png',
         },
         { property: 'og:image:width', content: '1200' },
         { property: 'og:image:height', content: '630' },
