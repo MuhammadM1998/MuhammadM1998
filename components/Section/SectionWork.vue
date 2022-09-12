@@ -36,11 +36,11 @@
       <div
         class="flex flex-wrap items-center gap-6 lg:basis-full lg:justify-end"
       >
-        <BaseLink to="/projects">
+        <BaseLink to="/projects" target="_self">
           <i-healthicons:ui-menu-grid-outline /> Projects Page
         </BaseLink>
 
-        <BaseLink href="https://github.com/MuhammadM1998" target="blank">
+        <BaseLink href="https://github.com/MuhammadM1998" target="_blank">
           <i-lucide:github /> GitHub Account
         </BaseLink>
       </div>

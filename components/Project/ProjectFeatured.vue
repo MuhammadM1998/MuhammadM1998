@@ -56,10 +56,16 @@
               </div>
 
               <div class="navigation-btns">
-                <button class="navigation-btn navigation-btn--prev">
+                <button
+                  class="navigation-btn navigation-btn--prev"
+                  aria-label="Previous Project"
+                >
                   <i-akar-icons:chevron-left />
                 </button>
-                <button class="navigation-btn navigation-btn--next">
+                <button
+                  class="navigation-btn navigation-btn--next"
+                  aria-label="Next Project"
+                >
                   <i-akar-icons:chevron-right />
                 </button>
               </div>
@@ -103,8 +109,8 @@
         <div class="project-image">
           <picture>
             <source
-              v-for="image in projects.dynamicImages"
-              :key="image.width"
+              v-for="(image, index) in project.dynamicImages"
+              :key="index"
               :media="`(min-width:${image.width}px)`"
               :srcset="image.url"
             />
@@ -170,7 +176,7 @@
     @apply md:h-96 md:grow md:rounded-r lg:h-[30rem] xl:h-[34rem];
 
     img {
-      @apply h-full w-full object-cover object-[top_center] transition-all duration-[3s]  hover:object-[bottom_center];
+      @apply h-full w-full object-cover object-[top_center] transition-all duration-[10s]  hover:object-[bottom_center];
     }
   }
 </style>

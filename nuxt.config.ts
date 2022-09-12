@@ -7,7 +7,7 @@ import { FileSystemIconLoader } from 'unplugin-icons/loaders';
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'Muhammad Mahmoud - Frontend Web Developer',
+      title: 'Muhammad Mahmoud - Nuxt.js Frontend Web Developer',
       htmlAttrs: { lang: 'en' },
       link: [
         // Favicon

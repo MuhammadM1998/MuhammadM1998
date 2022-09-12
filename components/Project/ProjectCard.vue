@@ -9,8 +9,8 @@
     <div class="project__image">
       <picture>
         <source
-          v-for="image in project.dynamicImages"
-          :key="image.width"
+          v-for="(image, index) in project.dynamicImages"
+          :key="index"
           :media="`(min-width:${image.width}px)`"
           :srcset="image.url"
         />
