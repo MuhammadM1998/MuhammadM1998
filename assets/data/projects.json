@@ -190,7 +190,7 @@
     "id": 5,
     "name": "Shortly",
     "genre": "URL Shortening",
-    "description": "Airbnb-like website for renting homes all over the world.",
+    "description": "Website for shortening URLs.",
     "links": {
       "live": "https://shortly-alpha.vercel.app/ ",
       "github": "https://github.com/MuhammadM1998/Shortly"
@@ -198,38 +198,26 @@
     "stack": [
       { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
       { "name": "Tailwind CSS", "icon": "bxl:tailwind-css" },
-      { "name": "Firebase", "icon": "simple-icons:firebase" },
-      { "name": "Algolia", "icon": "simple-icons:algolia" },
-      { "name": "Mapbox", "icon": "simple-icons:mapbox" },
-      { "name": "Stripe", "icon": "simple-icons:stripe" }
+      { "name": "SASS", "icon": "simple-icons:sass" },
+      { "name": "Pinia", "icon": "Pinia" },
+      { "name": "Axios", "icon": "simple-icons:axios" }
     ],
     "isFeatured": false,
-    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp",
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086888/Portfolio/Projects%20Shots/Shortly/1280.webp",
     "dynamicImages": [
       {
         "width": "1280",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp"
-      },
-      {
-        "width": "1024",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747464/Portfolio/Projects%20Shots/NuxtBnB/1024.webp"
-      },
-      {
-        "width": "768",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747454/Portfolio/Projects%20Shots/NuxtBnB/768.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086888/Portfolio/Projects%20Shots/Shortly/1280.webp"
       },
 
       {
-        "width": "640",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747456/Portfolio/Projects%20Shots/NuxtBnB/640.webp"
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086884/Portfolio/Projects%20Shots/Shortly/768.webp"
       },
+
       {
         "width": "480",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747434/Portfolio/Projects%20Shots/NuxtBnB/480.webp"
-      },
-      {
-        "width": "320",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747428/Portfolio/Projects%20Shots/NuxtBnB/320.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086884/Portfolio/Projects%20Shots/Shortly/480.webp"
       }
     ]
   },
@@ -238,46 +226,33 @@
     "id": 6,
     "name": "Paywise",
     "genre": "Banking",
-    "description": "Airbnb-like website for renting homes all over the world.",
+    "description": "A banking project with a landing page and a user dashboard.",
     "links": {
       "live": "https://paywise-55367.web.app/ ",
       "github": "https://github.com/MuhammadM1998/Paywise"
     },
     "stack": [
-      { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
+      { "name": "Vue.js", "icon": "simple-icons:vuedotjs" },
       { "name": "Tailwind CSS", "icon": "bxl:tailwind-css" },
-      { "name": "Firebase", "icon": "simple-icons:firebase" },
-      { "name": "Algolia", "icon": "simple-icons:algolia" },
-      { "name": "Mapbox", "icon": "simple-icons:mapbox" },
-      { "name": "Stripe", "icon": "simple-icons:stripe" }
+      { "name": "Vite", "icon": "simple-icons:vite" },
+      { "name": "Figma", "icon": "simple-icons:figma" }
     ],
     "isFeatured": false,
-    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp",
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086799/Portfolio/Projects%20Shots/Paywise/1280.webp",
     "dynamicImages": [
       {
         "width": "1280",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp"
-      },
-      {
-        "width": "1024",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747464/Portfolio/Projects%20Shots/NuxtBnB/1024.webp"
-      },
-      {
-        "width": "768",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747454/Portfolio/Projects%20Shots/NuxtBnB/768.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086799/Portfolio/Projects%20Shots/Paywise/1280.webp"
       },
 
       {
-        "width": "640",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747456/Portfolio/Projects%20Shots/NuxtBnB/640.webp"
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086799/Portfolio/Projects%20Shots/Paywise/768.webp"
       },
+
       {
         "width": "480",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747434/Portfolio/Projects%20Shots/NuxtBnB/480.webp"
-      },
-      {
-        "width": "320",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747428/Portfolio/Projects%20Shots/NuxtBnB/320.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086795/Portfolio/Projects%20Shots/Paywise/480.webp"
       }
     ]
   },
@@ -286,47 +261,138 @@
     "id": 7,
     "name": "RISC-Aswan",
     "genre": "Electronics",
-    "description": "Airbnb-like website for renting homes all over the world.",
+    "description": "Landing Page of my graduation project, RISC-V RV32I CPU.",
     "links": {
       "live": "https://risc-aswan-2022.web.app/ ",
       "github": "https://github.com/MuhammadM1998/RISC-Aswan"
     },
     "stack": [
-      { "name": "Nuxt.js", "icon": "simple-icons:nuxtdotjs" },
-      { "name": "Tailwind CSS", "icon": "bxl:tailwind-css" },
       { "name": "Firebase", "icon": "simple-icons:firebase" },
-      { "name": "Algolia", "icon": "simple-icons:algolia" },
-      { "name": "Mapbox", "icon": "simple-icons:mapbox" },
-      { "name": "Stripe", "icon": "simple-icons:stripe" }
+      { "name": "Tailwind CSS", "icon": "simple-icons:tailwindcss" },
+      { "name": "HTML", "icon": "simple-icons:html5" },
+      { "name": "Vanilla Javascript", "icon": "simple-icons:javascript" },
+      { "name": "Figma", "icon": "simple-icons:figma" }
     ],
     "isFeatured": false,
-    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp",
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086126/Portfolio/Projects%20Shots/RISC-Aswan/1280.webp",
     "dynamicImages": [
       {
         "width": "1280",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747471/Portfolio/Projects%20Shots/NuxtBnB/1280.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086126/Portfolio/Projects%20Shots/RISC-Aswan/1280.webp"
       },
       {
         "width": "1024",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747464/Portfolio/Projects%20Shots/NuxtBnB/1024.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086126/Portfolio/Projects%20Shots/RISC-Aswan/1024.webp"
       },
       {
         "width": "768",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747454/Portfolio/Projects%20Shots/NuxtBnB/768.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086126/Portfolio/Projects%20Shots/RISC-Aswan/768.webp"
       },
 
       {
         "width": "640",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747456/Portfolio/Projects%20Shots/NuxtBnB/640.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086126/Portfolio/Projects%20Shots/RISC-Aswan/640.webp"
       },
       {
         "width": "480",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747434/Portfolio/Projects%20Shots/NuxtBnB/480.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086126/Portfolio/Projects%20Shots/RISC-Aswan/480.webp"
       },
       {
         "width": "320",
-        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1662747428/Portfolio/Projects%20Shots/NuxtBnB/320.webp"
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663086126/Portfolio/Projects%20Shots/RISC-Aswan/320.webp"
       }
     ]
+  },
+
+  {
+    "id": 8,
+    "name": "Mapty",
+    "genre": "Geolocation",
+    "description": "Simple app to track your exercises locations and details with an elegant UI.",
+    "links": {
+      "live": "https://mapty-muhammadm1998.vercel.app/",
+      "github": "https://github.com/MuhammadM1998/Mapty"
+    },
+    "stack": [
+      { "name": "HTML", "icon": "simple-icons:html5" },
+      { "name": "CSS", "icon": "simple-icons:css3" },
+      { "name": "Vanilla Javascript", "icon": "simple-icons:javascript" }
+    ],
+    "isFeatured": false,
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085776/Portfolio/Projects%20Shots/Mapty/1280.webp",
+    "dynamicImages": [
+      {
+        "width": "1024",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085776/Portfolio/Projects%20Shots/Mapty/1280.webp"
+      },
+
+      {
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085776/Portfolio/Projects%20Shots/Mapty/768.webp"
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "name": "Bankist App",
+    "genre": "Banking",
+    "description": "Simple Banking app to transfer money to & from your account.",
+    "links": {
+      "live": "https://bankist-muhammadm1998.vercel.app/",
+      "github": "https://github.com/MuhammadM1998/Bankist-App"
+    },
+    "stack": [
+      { "name": "HTML", "icon": "simple-icons:html5" },
+      { "name": "CSS", "icon": "simple-icons:css3" },
+      { "name": "Vanilla Javascript", "icon": "simple-icons:javascript" }
+    ],
+    "isFeatured": false,
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085360/Portfolio/Projects%20Shots/Bankist-App/1280.webp",
+    "dynamicImages": [
+      {
+        "width": "1280",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085360/Portfolio/Projects%20Shots/Bankist-App/1280.webp"
+      },
+      {
+        "width": "1024",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085360/Portfolio/Projects%20Shots/Bankist-App/1024.webp"
+      },
+      {
+        "width": "768",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085358/Portfolio/Projects%20Shots/Bankist-App/768.webp"
+      },
+
+      {
+        "width": "640",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085360/Portfolio/Projects%20Shots/Bankist-App/640.webp"
+      },
+      {
+        "width": "480",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085360/Portfolio/Projects%20Shots/Bankist-App/480.webp"
+      },
+      {
+        "width": "320",
+        "url": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085359/Portfolio/Projects%20Shots/Bankist-App/320.webp"
+      }
+    ]
+  },
+
+  {
+    "id": 10,
+    "name": "Bankist Landing Page",
+    "genre": "Banking",
+    "description": "Landing page for a simple banking app.",
+    "links": {
+      "live": "https://bankist-landing.vercel.app/",
+      "github": "https://github.com/MuhammadM1998/Bankist-Landing"
+    },
+    "stack": [
+      { "name": "HTML", "icon": "simple-icons:html5" },
+      { "name": "CSS", "icon": "simple-icons:css3" },
+      { "name": "Javascript", "icon": "simple-icons:javascript" }
+    ],
+    "isFeatured": false,
+    "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085158/Portfolio/Projects%20Shots/Bankist-Landing/1280.webp"
   }
 ]

@@ -43,15 +43,15 @@ export default defineNuxtConfig({
         },
         {
           property: 'og:title',
-          content: 'Muhammad Mahmoud - Frontend Web Developer',
+          content: 'Muhammad Mahmoud - Nuxt.js Frontend Web Developer',
         },
         {
           property: 'og:site_name',
-          content: 'Muhammad Mahmoud - Frontend Web Developer',
+          content: 'Muhammad Mahmoud - Nuxt.js Frontend Web Developer',
         },
         {
           property: 'twitter:title',
-          content: 'Muhammad Mahmoud - Frontend Web Developer',
+          content: 'Muhammad Mahmoud - Nuxt.js Frontend Web Developer',
         },
         {
           property: 'og:description',
@@ -82,7 +82,7 @@ export default defineNuxtConfig({
         { property: 'og:image:height', content: '630' },
         {
           property: 'og:image:alt',
-          content: 'Muhammad Mahmoud - Frontend Web Developer',
+          content: 'Muhammad Mahmoud - Nuxt.js Frontend Web Developer',
         },
       ],
     },
