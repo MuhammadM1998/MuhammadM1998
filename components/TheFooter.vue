@@ -3,12 +3,14 @@
 </script>
 
 <template>
-  <footer data-aos="fade-up" data-aos-delay="150">
+  <footer>
     <p>Developed by <span>Muhammad Mahmoud</span>.</p>
     <p>Built with <span>Nuxt.js</span> & <span>TailwindCSS</span>.</p>
     <p>
       Click
-      <button @click.prevent="isModalVisible = true"><span> here</span></button>
+      <button @click.prevent="isModalVisible = true">
+        <span> here</span>
+      </button>
       for attributions.
     </p>
 
