@@ -1,5 +1,5 @@
 <template>
-  <div class="side-links">
+  <div class="side-links" data-aos="fade-zoom-in" data-aos-delay="800">
     <ul>
       <li>
         <a

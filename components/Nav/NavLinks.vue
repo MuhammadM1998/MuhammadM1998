@@ -1,18 +1,18 @@
 <template>
   <ul>
-    <li>
+    <li data-aos="fade-down">
       <a href="/#about">About</a>
     </li>
 
-    <li>
+    <li data-aos="fade-down" data-aos-delay="100">
       <a href="/#features">Features</a>
     </li>
 
-    <li>
+    <li data-aos="fade-down" data-aos-delay="200">
       <a href="/#work">My Work</a>
     </li>
 
-    <li>
+    <li data-aos="fade-down" data-aos-delay="300">
       <a href="/#contact">Contact</a>
     </li>
   </ul>

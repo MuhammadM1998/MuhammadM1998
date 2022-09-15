@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <footer>
+  <footer data-aos="fade-up" data-aos-delay="150">
     <p>Developed by <span>Muhammad Mahmoud</span>.</p>
     <p>Built with <span>Nuxt.js</span> & <span>TailwindCSS</span>.</p>
     <p>

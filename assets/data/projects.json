@@ -390,7 +390,7 @@
     "stack": [
       { "name": "HTML", "icon": "simple-icons:html5" },
       { "name": "CSS", "icon": "simple-icons:css3" },
-      { "name": "Javascript", "icon": "simple-icons:javascript" }
+      { "name": "Vanilla Javascript", "icon": "simple-icons:javascript" }
     ],
     "isFeatured": false,
     "defaultImage": "https://res.cloudinary.com/cloud-m98/image/upload/v1663085158/Portfolio/Projects%20Shots/Bankist-Landing/1280.webp"

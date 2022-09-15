@@ -2,22 +2,46 @@
   <section class="flex min-h-screen items-center py-20">
     <div class="container flex items-center transition-all">
       <div class="content lg:basis-full">
-        <h1 class="caption mb-5">Hi there!, My name is</h1>
-        <h2 class="heading heading--main">Muhammad Mahmoud.</h2>
-        <h3 class="heading heading--sec">I build things for the web.</h3>
-        <p class="mt-5">
+        <h1 class="caption mb-5" data-aos="fade-up" data-aos-delay="400">
+          Hi there!, My name is
+        </h1>
+        <h2
+          class="heading heading--main"
+          data-aos="fade-up"
+          data-aos-delay="450"
+        >
+          Muhammad Mahmoud.
+        </h2>
+        <h3
+          class="heading heading--sec"
+          data-aos="fade-up"
+          data-aos-delay="500"
+        >
+          I build things for the web.
+        </h3>
+        <p class="mt-5" data-aos="fade-up" data-aos-delay="550">
           I'm a
           <span class="text-green-100">Nuxt.js Frontend Web Developer</span>
           based in Egypt who enjoys creating beautiful, functional and
           accessible websites for individuals and small-businesses.
         </p>
 
-        <BaseLink href="/#contact" target="_top" class="mt-8 w-fit"
-          >Get in touch</BaseLink
+        <BaseLink
+          href="/#contact"
+          target="_top"
+          class="mt-8 w-fit"
+          data-aos="fade-up"
+          data-aos-delay="600"
         >
+          Get in touch
+        </BaseLink>
       </div>
 
-      <PandaIntro class="hidden lg:block" />
+      <PandaIntro
+        class="hidden lg:block"
+        data-aos="zoom-out"
+        data-aos-delay="400"
+      />
     </div>
   </section>
 </template>

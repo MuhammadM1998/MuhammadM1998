@@ -4,7 +4,11 @@
 
 <template>
   <section id="features" ref="section" class="bg-navy-500 py-24">
-    <div class="container flex flex-col items-center text-center">
+    <div
+      class="container flex flex-col items-center text-center"
+      data-aos="fade-up"
+      data-aos-delay="150"
+    >
       <span class="caption">You might be wondering</span>
       <h2 class="section-heading section-heading--big">Why Have a Website?</h2>
       <p class="mx-auto mb-6">

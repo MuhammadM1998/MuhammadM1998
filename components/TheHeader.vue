@@ -24,11 +24,14 @@
     <div
       class="container flex min-h-[48px] items-center justify-between transition-all"
     >
-      <NuxtLink to="/" aria-label="home">
+      <NuxtLink to="/" aria-label="home" data-aos="zoom-in">
         <i-myicons-logo class="text-2xl" />
       </NuxtLink>
 
-      <Nav />
+      <nav>
+        <NavLinks class="hidden text-[13px] sm:flex" />
+        <NavAside class="sm:hidden" />
+      </nav>
     </div>
   </header>
 </template>
