@@ -15,7 +15,7 @@
           :srcset="image.url"
         />
 
-        <img :src="project.defaultImage" :alt="project.name" />
+        <img :src="project.defaultImage" :alt="project.name" loading="lazy" />
       </picture>
     </div>
 

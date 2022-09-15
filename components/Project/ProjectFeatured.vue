@@ -112,11 +112,16 @@
               v-for="(image, index) in project.dynamicImages"
               :key="index"
               :media="`(min-width:${image.width}px)`"
-              :srcset="image.url"
+              :data-srcset="image.url"
             />
 
-            <img :src="project.defaultImage" :alt="project.name" />
+            <img
+              :data-src="project.defaultImage"
+              :alt="project.name"
+              class="swiper-lazy"
+            />
           </picture>
+          <div class="swiper-lazy-preloader" />
         </div>
       </SwiperSlide>
     </Swiper>
@@ -124,6 +129,10 @@
 </template>
 
 <style scoped lang="scss">
+  .swiper-lazy-preloader {
+    --swiper-preloader-color: rgb(100 255 218);
+  }
+
   .project-wrapper {
     @apply mt-8 flex flex-col border-y-2 border-navy-400;
     @apply md:mt-20 md:flex-row-reverse md:items-center md:border-none;
@@ -172,7 +181,7 @@
   }
 
   .project-image {
-    @apply h-80 overflow-hidden;
+    @apply relative h-80 overflow-hidden;
     @apply md:h-96 md:grow md:rounded-r lg:h-[30rem] xl:h-[34rem];
 
     img {

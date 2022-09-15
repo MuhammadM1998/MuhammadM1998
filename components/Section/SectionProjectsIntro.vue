@@ -1,6 +1,6 @@
 <template>
   <section class="flex items-center py-32 transition-all">
-    <div class="content lg:basis-full">
+    <div class="content lg:basis-full" data-aos="fade-up" data-aos-delay="400">
       <h2
         class="font-firacode text-fluid-heading font-bold leading-snug text-navy-100"
       >
@@ -26,7 +26,11 @@
       </BaseLink>
     </div>
 
-    <PandaProjects class="hidden lg:block lg:basis-full" />
+    <PandaProjects
+      class="hidden lg:block lg:basis-full"
+      data-aos="zoom-out"
+      data-aos-delay="450"
+    />
   </section>
 </template>
 

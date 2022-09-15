@@ -1,5 +1,10 @@
 <template>
-  <section id="about" class="py-24">
+  <section
+    id="about"
+    class="py-24"
+    data-aos="fade-zoom-in"
+    data-aos-delay="100"
+  >
     <div class="container">
       <h2 class="section-heading section-heading--decorated">About Me</h2>
 

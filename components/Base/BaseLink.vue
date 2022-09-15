@@ -1,11 +1,5 @@
-<script setup lang="ts">
-  const scrollTop = () => {
-    window.scrollTo(0, 0);
-  };
-</script>
-
 <template>
-  <NuxtLink v-bind="$attrs" @click="scrollTop">
+  <NuxtLink v-bind="$attrs">
     <slot />
   </NuxtLink>
 </template>

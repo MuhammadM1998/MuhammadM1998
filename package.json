@@ -11,9 +11,9 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
+    "build": "nuxi cleanup && nuxt build",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
+    "generate": "nuxi cleanup && nuxt generate",
     "preview": "nuxt preview"
   },
   "devDependencies": {
@@ -26,7 +26,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-nuxt": "^3.2.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "nuxt": "3.0.0-rc.9",
+    "nuxt": "3.0.0-rc.10",
     "nuxt-icon": "^0.1.5",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",

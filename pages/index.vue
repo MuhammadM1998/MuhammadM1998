@@ -1,9 +1,9 @@
 <template>
   <div>
     <SectionIntro />
-    <SectionAbout data-aos="fade-zoom-in" data-aos-delay="100" />
+    <SectionAbout />
     <SectionFeatures />
-    <SectionWork data-aos="fade-zoom-in" data-aos-delay="250" />
-    <SectionContact data-aos="fade-zoom-out" data-aos-delay="50" />
+    <SectionWork />
+    <SectionContact />
   </div>
 </template>

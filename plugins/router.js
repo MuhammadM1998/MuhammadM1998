@@ -17,7 +17,7 @@ export default defineNuxtPlugin((nuxtApp) => {
     return new Promise((resolve) => {
       setTimeout(() => {
         resolve(goTo);
-      }, 100);
+      }, 300);
     });
   };
 });

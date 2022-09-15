@@ -1,5 +1,5 @@
 <template>
-  <section id="work" class="py-24">
+  <section id="work" class="py-24" data-aos="fade-zoom-in" data-aos-delay="150">
     <div class="container">
       <h2 class="section-heading section-heading--decorated">My Work</h2>
 
@@ -36,7 +36,7 @@
       <div
         class="flex flex-wrap items-center gap-6 lg:basis-full lg:justify-end"
       >
-        <BaseLink to="/projects" target="_self">
+        <BaseLink to="/projects">
           <i-healthicons:ui-menu-grid-outline /> Projects Page
         </BaseLink>
 
