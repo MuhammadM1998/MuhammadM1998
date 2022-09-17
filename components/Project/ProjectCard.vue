@@ -2,10 +2,37 @@
   defineProps({
     project: { type: Object, required: true },
   });
+
+  // 3D Hover Effect
+  const target = ref(null);
+  const { elementX, elementY, isOutside, elementHeight, elementWidth } =
+    useMouseInElement(target);
+
+  const cardTransform = computed(() => {
+    const MAX_ROTATION = 4;
+    const rX = (
+      MAX_ROTATION / 2 -
+      (elementY.value / elementHeight.value) * MAX_ROTATION
+    ).toFixed(2); // handles x-axis
+    const rY = (
+      (elementX.value / elementWidth.value) * MAX_ROTATION -
+      MAX_ROTATION / 2
+    ).toFixed(2); // handles y-axis
+    return isOutside.value
+      ? ''
+      : `perspective(${elementWidth.value}px) rotateX(${rX}deg) rotateY(${rY}deg)`;
+  });
 </script>
 
 <template>
-  <div class="project-card">
+  <div
+    ref="target"
+    class="project-card"
+    :style="{
+      transform: cardTransform,
+      transition: 'transform 0.25s ease-out',
+    }"
+  >
     <div class="project__image">
       <picture>
         <source
