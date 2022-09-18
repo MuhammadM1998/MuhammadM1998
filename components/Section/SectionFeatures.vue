@@ -1,5 +1,27 @@
 <script setup>
-  const activeTabIndex = ref(1);
+  const section = ref(null);
+  const sectionIsVisible = ref(false);
+  useIntersectionObserver(section, ([{ isIntersecting }]) => {
+    sectionIsVisible.value = isIntersecting;
+  });
+  onMounted(() => {
+    const { pause, resume } = useIntervalFn(changeTab, 3000);
+    pause();
+    watch(sectionIsVisible, (newValue) => {
+      if (newValue) resume();
+      else pause();
+    });
+  });
+
+  const activeTab = ref(null);
+  const activeTabIndex = ref(0);
+  const changeTab = () => {
+    const allTabs = Array.from(document.querySelectorAll('.tab'));
+    const lastTab = allTabs[allTabs.length - 1];
+    activeTab.value === lastTab
+      ? (activeTabIndex.value = 0)
+      : (activeTabIndex.value += 1);
+  };
 </script>
 
 <template>
@@ -21,12 +43,25 @@
         <ul class="flex items-center justify-center gap-8">
           <li>
             <button
-              :class="{ 'tab--active': activeTabIndex === 1 }"
+              :ref="(el) => (activeTabIndex === 0 ? (activeTab = el) : '')"
+              :class="{ 'tab--active': activeTabIndex === 0 }"
               class="tab"
               aria-label="Stand out"
-              @click="activeTabIndex = 1"
+              @click="activeTabIndex = 0"
             >
               <i-carbon:growth />
+            </button>
+          </li>
+
+          <li>
+            <button
+              :ref="(el) => (activeTabIndex === 1 ? (activeTab = el) : '')"
+              :class="{ 'tab--active': activeTabIndex === 1 }"
+              class="tab"
+              aria-label="Customers"
+              @click="activeTabIndex = 1"
+            >
+              <i-clarity:users-solid />
             </button>
           </li>
 
@@ -35,10 +70,10 @@
               :ref="(el) => (activeTabIndex === 2 ? (activeTab = el) : '')"
               :class="{ 'tab--active': activeTabIndex === 2 }"
               class="tab"
-              aria-label="Customers"
+              aria-label="Credibility"
               @click="activeTabIndex = 2"
             >
-              <i-clarity:users-solid />
+              <i-lucide:thumbs-up />
             </button>
           </li>
 
@@ -47,20 +82,8 @@
               :ref="(el) => (activeTabIndex === 3 ? (activeTab = el) : '')"
               :class="{ 'tab--active': activeTabIndex === 3 }"
               class="tab"
-              aria-label="Credibility"
-              @click="activeTabIndex = 3"
-            >
-              <i-lucide:thumbs-up />
-            </button>
-          </li>
-
-          <li>
-            <button
-              :ref="(el) => (activeTabIndex === 4 ? (activeTab = el) : '')"
-              :class="{ 'tab--active': activeTabIndex === 4 }"
-              class="tab"
               aria-label="Revenue"
-              @click="activeTabIndex = 4"
+              @click="activeTabIndex = 3"
             >
               <i-myicons-money-bag />
             </button>
@@ -69,7 +92,7 @@
 
         <!-- Tab Content -->
         <Transition name="fade" mode="out-in">
-          <div v-if="activeTabIndex === 1" class="feature-card">
+          <div v-if="activeTabIndex === 0" class="feature-card">
             <i-myicons-stand-out />
             <h3>Stand Out From Competitors</h3>
             <p>
@@ -78,7 +101,7 @@
             </p>
           </div>
 
-          <div v-else-if="activeTabIndex === 2" class="feature-card">
+          <div v-else-if="activeTabIndex === 1" class="feature-card">
             <i-myicons-customers />
             <h3>Boost Customer Base</h3>
             <p>
@@ -87,7 +110,7 @@
             </p>
           </div>
 
-          <div v-else-if="activeTabIndex === 3" class="feature-card">
+          <div v-else-if="activeTabIndex === 2" class="feature-card">
             <i-myicons-credibility />
             <h3>Establish Credibility</h3>
             <p>
@@ -96,7 +119,7 @@
             </p>
           </div>
 
-          <div v-else-if="activeTabIndex === 4" class="feature-card">
+          <div v-else-if="activeTabIndex === 3" class="feature-card">
             <i-myicons-revenue />
             <h3>Increase Revenue</h3>
             <p>
@@ -112,7 +135,7 @@
 
 <style scoped lang="scss">
   .tab {
-    @apply rounded bg-navy-400 p-3 text-xl text-navy-100;
+    @apply rounded bg-navy-400 p-3 text-xl text-navy-100 outline-none;
     @apply transition-all hover:bg-green-100 hover:text-navy-400;
     @apply relative overflow-hidden;
 
@@ -134,15 +157,6 @@
 
     p {
       @apply mt-2;
-    }
-  }
-
-  @keyframes width {
-    from {
-      width: 0%;
-    }
-    to {
-      width: 100%;
     }
   }
 
