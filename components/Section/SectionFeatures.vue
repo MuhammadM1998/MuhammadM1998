@@ -15,9 +15,14 @@
 
   const activeTab = ref(null);
   const activeTabIndex = ref(0);
+  let allTabs;
+  let lastTab;
+  onMounted(() => {
+    allTabs = Array.from(document.querySelectorAll('.tab'));
+    lastTab = allTabs[allTabs.length - 1];
+  });
+
   const changeTab = () => {
-    const allTabs = Array.from(document.querySelectorAll('.tab'));
-    const lastTab = allTabs[allTabs.length - 1];
     activeTab.value === lastTab
       ? (activeTabIndex.value = 0)
       : (activeTabIndex.value += 1);
