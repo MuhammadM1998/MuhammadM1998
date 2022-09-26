@@ -9,8 +9,8 @@
 
 ## ⚡ Important Links
 
-- #### [My Portfolio](https://muhammad-m1998.vercel.app/)
-- #### [My Resume](https://drive.google.com/file/d/1o0lYks_cUtR2IKDuXYZDERRjTMvbZjIs/view) (online in the browser, no downloads)
+- #### [My Portfolio](https://www.muhammadmahmoud.com/)
+- #### [My Resume](https://www.muhammadmahmoud.com/resume) (online in the browser, no downloads)
 
 &nbsp;
 

@@ -53,10 +53,7 @@
               <i-ant-design-linkedin-filled /> Linkedin
             </BaseLink>
 
-            <BaseLink
-              href="https://drive.google.com/file/d/1o0lYks_cUtR2IKDuXYZDERRjTMvbZjIs/view"
-              target="blank"
-            >
+            <BaseLink to="/resume" target="blank">
               <i-pepicons-cv /> Resume
             </BaseLink>
           </div>
