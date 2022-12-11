@@ -1,4 +1,3 @@
-import { defineNuxtConfig } from 'nuxt';
 import Icons from 'unplugin-icons/vite';
 import IconsResolver from 'unplugin-icons/resolver';
 import Components from 'unplugin-vue-components/vite';
