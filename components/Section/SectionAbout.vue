@@ -70,19 +70,48 @@
 
               <div class="group-hover:translate-x-2">
                 <img
+                  src="~/assets/images/alexapps.webp"
+                  alt="Alexapps"
+                  class="institution-img"
+                />
+
+                <p class="institution-name">
+                  Alexapps
+                  <span class="duration"> (November 2022 - Present) </span>
+                </p>
+
+                <p class="position">Frontend Web Developer</p>
+
+                <p class="location">
+                  <i-carbon-location-current /> Alexandria, Egypt
+                </p>
+              </div>
+            </li>
+
+            <li class="experience-item group">
+              <span
+                class="experience__type bg-navy-300 group-hover:scale-110 group-hover:bg-green-100"
+              >
+                <i-ic-outline-work class="text-xs group-hover:text-sm" />
+              </span>
+
+              <div class="group-hover:translate-x-2">
+                <img
                   src="~/assets/images/Upwork.webp"
-                  alt="Upwork.webp"
+                  alt="Upwork"
                   class="institution-img"
                 />
 
                 <p class="institution-name">
                   Upwork
-                  <span class="duration"> (September 2022 - Present) </span>
+                  <span class="duration"> (August 2022 - November 2022) </span>
                 </p>
 
                 <p class="position">Frontend Web Developer</p>
 
-                <p class="location"><i-carbon-location-current /> Anywhere</p>
+                <p class="location">
+                  <i-carbon-location-current /> Around the world
+                </p>
               </div>
             </li>
 
@@ -98,7 +127,7 @@
               <div class="group-hover:translate-x-2">
                 <img
                   src="~/assets/images/Aswan-Faculty-of-Engineering.webp"
-                  alt="Aswan Faculty of Engineering.webp"
+                  alt="Aswan Faculty of Engineering"
                   class="institution-img"
                 />
 
@@ -112,35 +141,6 @@
                 </p>
 
                 <p class="location"><i-carbon-location-current /> Aswan</p>
-              </div>
-            </li>
-
-            <li class="experience-item group">
-              <span
-                class="experience__type bg-navy-300 group-hover:scale-110 group-hover:bg-green-100"
-              >
-                <i-fluent-hat-graduation-12-filled
-                  class="text-xs group-hover:text-sm"
-                />
-              </span>
-
-              <div class="group-hover:translate-x-2">
-                <img
-                  src="~/assets/images/Esna-Secondary-School.webp"
-                  alt="Esna Secondary School.webp"
-                  class="institution-img"
-                />
-
-                <p class="institution-name">
-                  Esna Secondary School
-                  <span class="duration"> (2014 - 2016) </span>
-                </p>
-
-                <p class="position">High School</p>
-
-                <p class="location">
-                  <i-carbon-location-current /> Esna, Luxor
-                </p>
               </div>
             </li>
           </ul>
