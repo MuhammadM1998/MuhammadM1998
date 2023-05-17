@@ -2,7 +2,7 @@
   <div>
     <SectionIntro />
     <SectionAbout />
-    <SectionFeatures />
+    <!-- <SectionFeatures /> -->
     <SectionWork />
     <SectionContact />
   </div>
