@@ -10,15 +10,15 @@
         </p>
 
         <ul class="my-stack">
-          <li><i-akar-icons:javascript-fill /> Javascript (ES6+)</li>
-          <li><i-bxl:tailwind-css /> Tailwind CSS</li>
-          <li><i-simple-icons:nuxtdotjs /> Nuxt.js</li>
           <li><i-cib:vue-js /> Vue.js</li>
+          <li><i-simple-icons:nuxtdotjs /> Nuxt.js</li>
+          <li><i-bxl:tailwind-css /> Tailwind CSS</li>
+          <li><i-akar-icons:javascript-fill /> Javascript (ES6+)</li>
+          <li><i-akar-icons:typescript-fill /> TypeScript</li>
           <li>
             <i-myicons:vitest />
             Vitest
           </li>
-          <li><i-tabler:brand-vcypress /> Cypress</li>
         </ul>
       </div>
     </div>
