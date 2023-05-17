@@ -87,9 +87,9 @@ export default defineNuxtConfig({
     },
   },
 
-  build: {
-    transpile: ['swiper'],
-  },
+  plugins: [{ src: '~/plugins/vercel.js', mode: 'client' }],
+
+  build: { transpile: ['swiper'] },
 
   modules: [
     '@nuxtjs/tailwindcss',
