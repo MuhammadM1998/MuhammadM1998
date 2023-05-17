@@ -1,0 +1,39 @@
+{
+  "name": "muhammadm1998-portfolio",
+  "description": "I'm Muhammad Mahmoud, a Nuxt.js Frontend Web Developer. This is the web version of my resume",
+  "version": "1.0.0",
+  "author": "MuhammadM1998",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MuhammadM1998/MuhammadM1998"
+  },
+  "homepage": "https://www.muhammadmahmoud.com",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "nuxi cleanup && nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxi cleanup && nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.1.101",
+    "@nuxtjs/tailwindcss": "^6.7.0",
+    "@vueuse/core": "^9.1.1",
+    "@vueuse/nuxt": "^9.1.1",
+    "aos": "^2.3.4",
+    "eslint": "^8.23.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-nuxt": "^3.2.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "nuxt": "^3.5.0",
+    "nuxt-icon": "^0.1.5",
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwindcss": "^0.3.0",
+    "sass": "^1.54.6",
+    "sass-loader": "^13.0.2",
+    "swiper": "^8.3.2",
+    "unplugin-icons": "^0.14.8",
+    "unplugin-vue-components": "^0.22.4"
+  }
+}
