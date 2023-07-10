@@ -162,11 +162,11 @@
     @apply first-of-type:before:rounded-t last-of-type:before:rounded-b;
 
     .experience__type {
-      @apply absolute left-0 top-0 translate-y-4 -translate-x-[40%] rounded-full p-1 text-xs text-navy-500;
+      @apply absolute left-0 top-0 -translate-x-[40%] translate-y-4 rounded-full p-1 text-xs text-navy-500;
     }
 
     .institution-img {
-      @apply mb-2 h-9 w-9;
+      @apply mb-2 h-9 w-9 rounded-full;
     }
 
     .institution-name {
