@@ -37,7 +37,7 @@ module.exports = {
       },
 
       fontFamily: {
-        poppins: ['Poppins', 'sans-serif'],
+        inter: ['Inter', 'sans-serif'],
         firacode: ['Fira Code', 'monospace'],
       },
 
