@@ -23,16 +23,7 @@
           I'm a
           <span class="text-green-100">Nuxt.js Frontend Web Developer</span>
           based in Egypt who enjoys creating beautiful, functional and
-          accessible websites for individuals and small-businesses. Currently
-          working at
-          <NuxtLink
-            to="https://www.linkedin.com/company/alexaiapps/"
-            target="_blank"
-            class="border-b border-dashed border-green-100 text-green-100 transition-colors hover:border-green-100/70 hover:text-green-100/70"
-          >
-            Alexapps</NuxtLink
-          >
-          where we're developing and maintaining a large-scale ERP system.
+          accessible websites for individuals and small-businesses.
         </p>
 
         <BaseLink
