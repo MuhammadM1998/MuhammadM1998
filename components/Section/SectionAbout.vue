@@ -18,14 +18,18 @@
           <p class="mb-4">
             I discovered that I like to code in college while completing a task.
             I coded things using various programming languages like
-            <span class="text--highlighted">Fortran</span>,
-            <span class="text--highlighted">C++</span>,
-            <span class="text--highlighted">Java</span> and even some
-            <span class="text--highlighted">Assembly</span>! I also coded a
-            RISC-V architechture (It's a CPU like the one in your device, but
-            much simpler) for my graduation project.It impemented it using a HDL
-            (Hardware Description Language),
-            <span class="text--highlighted">Verilog</span>.
+            <span class="text--highlighted">Fortran</span>
+            ,
+            <span class="text--highlighted">C++</span>
+            ,
+            <span class="text--highlighted">Java</span>
+            and even some
+            <span class="text--highlighted">Assembly</span>
+            ! I also coded a RISC-V architechture (It's a CPU like the one in
+            your device, but much simpler) for my graduation project.It
+            impemented it using a HDL (Hardware Description Language),
+            <span class="text--highlighted">Verilog</span>
+            .
           </p>
 
           <p class="mb-4">
@@ -50,17 +54,47 @@
               href="https://www.linkedin.com/in/muhammadm1998/"
               target="blank"
             >
-              <i-ant-design-linkedin-filled /> Linkedin
+              <i-ant-design-linkedin-filled />
+              Linkedin
             </BaseLink>
 
             <BaseLink to="/resume" target="blank">
-              <i-pepicons-cv /> Resume
+              <i-pepicons-cv />
+              Resume
             </BaseLink>
           </div>
         </div>
 
         <div class="md:basis-full">
           <ul>
+            <li class="experience-item group">
+              <span
+                class="experience__type bg-navy-300 group-hover:scale-110 group-hover:bg-green-100"
+              >
+                <i-ic-outline-work class="text-xs group-hover:text-sm" />
+              </span>
+
+              <div class="group-hover:translate-x-2">
+                <img
+                  src="~/assets/images/chefaa.webp"
+                  alt="Chefaa"
+                  class="institution-img"
+                />
+
+                <p class="institution-name">
+                  Chefaa
+                  <span class="duration">(August 2023 - Present)</span>
+                </p>
+
+                <p class="position">Frontend Engineer</p>
+
+                <p class="location">
+                  <i-carbon-location-current />
+                  Cairo, Egypt
+                </p>
+              </div>
+            </li>
+
             <li class="experience-item group">
               <span
                 class="experience__type bg-navy-300 group-hover:scale-110 group-hover:bg-green-100"
@@ -77,13 +111,14 @@
 
                 <p class="institution-name">
                   Alexapps
-                  <span class="duration"> (November 2022 - Present) </span>
+                  <span class="duration">(November 2022 - August 2023)</span>
                 </p>
 
                 <p class="position">Frontend Web Developer</p>
 
                 <p class="location">
-                  <i-carbon-location-current /> Alexandria, Egypt
+                  <i-carbon-location-current />
+                  Alexandria, Egypt
                 </p>
               </div>
             </li>
@@ -104,13 +139,14 @@
 
                 <p class="institution-name">
                   Upwork
-                  <span class="duration"> (August 2022 - November 2022) </span>
+                  <span class="duration">(August 2022 - November 2022)</span>
                 </p>
 
                 <p class="position">Frontend Web Developer</p>
 
                 <p class="location">
-                  <i-carbon-location-current /> Around the world
+                  <i-carbon-location-current />
+                  Around the world
                 </p>
               </div>
             </li>
@@ -133,14 +169,17 @@
 
                 <p class="institution-name">
                   Faculty of Engineering
-                  <span class="duration"> (2016 - 2021) </span>
+                  <span class="duration">(2016 - 2021)</span>
                 </p>
 
                 <p class="position">
                   BS.c, Electrical & Telecommunication Engineering
                 </p>
 
-                <p class="location"><i-carbon-location-current /> Aswan</p>
+                <p class="location">
+                  <i-carbon-location-current />
+                  Aswan
+                </p>
               </div>
             </li>
           </ul>
