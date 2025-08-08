@@ -7,8 +7,3 @@
 </div>
 
 &nbsp;
-
-## ⚡ Important Links
-
-- #### [My Portfolio](https://www.muhammadmahmoud.com/)
-- #### [My Resume](https://www.muhammadmahmoud.com/resume) (online in the browser, no downloads)
