@@ -7,3 +7,7 @@
 </div>
 
 &nbsp;
+
+### 🔗 Links
+
+- [Resume](https://drive.google.com/file/d/1o0lYks_cUtR2IKDuXYZDERRjTMvbZjIs/view)
